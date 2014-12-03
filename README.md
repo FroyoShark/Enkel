@@ -2,7 +2,6 @@ Enkel
 =====
 
 ![alt tag](http://i.imgur.com/CteWDar.png)
-Enkel icon pack for Mac OS. Enkel is Swedish for Simple.
 
     Enkel (Swedish)
     Adjective
