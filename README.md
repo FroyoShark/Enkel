@@ -22,6 +22,7 @@ http://www.reddit.com/r/mac/comments/2o2wyq/made_a_few_flat_themed_icons_would_a
 3. Press cmd+a in the preview window, then press cmd+c
 4. Right click on the application (in the applications folder), choose “get info”, then click on the icon in the top left and press cmd+v
 5. Close the icon and remove it from your dock. When you open it again, you should see the new icon! (Rebooting should work too, haven’t tried that though)
+To revert to the default icon, click on the icon in the "get info" window of the application and press delete.
 
 
 ## Automatically generating .icns files
