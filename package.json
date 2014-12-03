@@ -1,0 +1,24 @@
+{
+  "name": "Enkel",
+  "version": "1.0.0",
+  "description": "Enkel icon pack for Mac OS. Enkel is Swedish for Simple.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FroyoShark/Enkel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FroyoShark/Enkel/issues"
+  },
+  "homepage": "https://github.com/FroyoShark/Enkel",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "lwip": "0.0.5",
+    "rimraf": "^2.2.8"
+  }
+}
