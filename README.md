@@ -18,9 +18,10 @@ http://www.reddit.com/r/mac/comments/2o2wyq/made_a_few_flat_themed_icons_would_a
 ## How to use the icons on a Mac
 
 1. Download the icns files from the icns folder
-2. Highlight the icns file in finder and press cmd+c
-3. Right click on the application (in the applications folder), choose “get info”, then click on the icon in the top left and press cmd+v
-4. Close the icon and remove it from your dock. When you open it again, you should see the new icon! (Rebooting should work too, haven’t tried that though)
+2. Open the icns file in Preview
+3. Press cmd+a in the preview window, then press cmd+c
+4. Right click on the application (in the applications folder), choose “get info”, then click on the icon in the top left and press cmd+v
+5. Close the icon and remove it from your dock. When you open it again, you should see the new icon! (Rebooting should work too, haven’t tried that though)
 
 
 ## Automatically generating .icns files
