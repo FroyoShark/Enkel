@@ -1,6 +1,7 @@
 Enkel
 =====
 
+    Usable icons are in the “icns” folder!
 
 ![alt tag](http://i.imgur.com/CteWDar.png)
 
