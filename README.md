@@ -26,6 +26,15 @@ http://www.reddit.com/r/mac/comments/2o2wyq/made_a_few_flat_themed_icons_would_a
 5. Close the icon and remove it from your dock. When you open it again, you should see the new icon! (Rebooting should work too, haven’t tried that though)
 To revert to the default icon, click on the icon in the "get info" window of the application and press delete.
 
+### Alternate Method
+Download [LiteIcon](http://www.freemacsoft.net/liteicon/) and have it do the "grunt work" for you.
+
+After you've updated the icons with LiteIcon (or the original method), open Terminal and type
+    
+    killall Dock
+    
+Don't be alarmed if you see your screen flashes black for a second, this is normal. Your dock just reset itself and should be back to normal (with the new icons!) in a matter of seconds.
+
 
 ## Automatically generating .icns files
 
