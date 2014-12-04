@@ -1,6 +1,7 @@
 Enkel
 =====
 
+NOTE: All icons made before Tweetbot will be redone with a lighter, solid (no fade) shadow.
 ![alt tag](http://i.imgur.com/CteWDar.png)
 
     Enkel (Swedish)
